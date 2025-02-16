@@ -2,6 +2,11 @@
 
 A modern, interactive data dashboard for visualizing Telegram channel metrics and trends. Built with React and Recharts, featuring real-time updates and responsive design.
 
+
+# Live Preview
+  https://telemetricsdashboard.netlify.app/
+
+  
 ## Features
 
 - 📊 Interactive data visualizations
